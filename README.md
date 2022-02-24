@@ -1,6 +1,6 @@
 <p align="center" style="margin-bottom: -50px">
   <img src="https://cdn-std.dprcdn.net/files/acc_649651/BSPk3z">
-</p>
+</p>1
 
 <p align="center">
   <a href="https://www.npmjs.com/package/docz" target="_blank">
